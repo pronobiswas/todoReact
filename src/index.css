@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol,ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  font-size: 16px;
+  color: blue;
+}
+.container{
+  width: 100%;
+  max-width: 1140px;margin: 0 auto;
+}
